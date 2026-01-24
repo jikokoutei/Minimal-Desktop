@@ -85,7 +85,7 @@ Run animated wallpapers with low system usage.
 🔗 https://apps.microsoft.com/detail/9NTM2QC6QWS7
 
 ### Install Wallpaper
-Recommended wallpaper: [Dragon Samurai](https://github.com/jikokoutei/Wallpaper/LiveWallpaper)
+Recommended wallpaper: [Dragon Samurai](https://github.com/jikokoutei/Wallpaper/tree/main/LiveWallpaper)
 
 #### Steps:
 
