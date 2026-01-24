@@ -33,8 +33,7 @@ Transform your Windows experience using trusted tools like **Windhawk, Rainmeter
 **Dragon Samurai**  
 A high-quality animated wallpaper that perfectly matches the minimal aesthetic.
 
-🔗 https://github.com/jikokoutei/Wallpaper/LiveWallpaper
-
+🔗 [LiveWallpaper](https://github.com/jikokoutei/Wallpaper/tree/main/LiveWallpaper)
 ---
 
 ## 📸 Preview
