@@ -39,7 +39,8 @@ A high-quality animated wallpaper that perfectly matches the minimal aesthetic.
 
 ## 📸 Preview
 
-<img width="2560" height="1440" alt="Preview" src="https://github.com/user-attachments/assets/e0ff6ef7-be4b-451d-a47e-932d376232ba" />
+<img width="500" alt="Preview" src="https://github.com/user-attachments/assets/1fa97f00-a666-4164-842d-3f25702dfca6" />
+
 
 ---
 
