@@ -16,43 +16,20 @@ Transform your Windows experience using trusted tools like **Windhawk, Rainmeter
 - 🌌 Animated live wallpapers  
 - 🧠 Productivity-focused layout  
 
----
+## 📸 Preview
 
-## 🧰 Tools Used
-
-- **Windhawk** – Native Windows UI tweaks  
-- **RoundedTB** – Rounded & floating taskbar  
-- **Rainmeter** – Minimal desktop widgets  
-- **Nexus Dock** – App launcher dock  
-- **Lively Wallpaper** – Animated wallpapers  
+<p align="center">
+  <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Samurai">
+    <img src="https://github.com/user-attachments/assets/1fa97f00-a666-4164-842d-3f25702dfca6" alt="Alt text" width="300">
+  </a><br>
+  <em> <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Samurai" >W--Samurai </a></em>
+</p>
 
 ---
 
 ## 🐉 Wallpaper Collection
+[Wallpaper](https://github.com/jikokoutei/Wallpaper)
 
-**Dragon Samurai**  
-A high-quality animated wallpaper that perfectly matches the minimal aesthetic.
-
-🔗 [LiveWallpaper](https://github.com/jikokoutei/Wallpaper/tree/main/LiveWallpaper)
----
-
-## 📸 Preview
-
-<img width="500" alt="Preview" src="https://github.com/user-attachments/assets/1fa97f00-a666-4164-842d-3f25702dfca6" />
-
-
----
-
-## 🖤 Why Minimal Desktop?
-
-- Less clutter, more focus  
-- Clean visuals improve productivity  
-- Customizable without heavy system load  
-
-> “Minimalism is not about having less.  
-> It’s about making room for more.”
-
----
 
 ## ⭐ Support the Project
 
@@ -63,7 +40,3 @@ If you like this setup:
 - 📸 Share your desktop build  
 
 ---
-
-## 🚀 Getting Started
-
-➡️ See **[USAGE.md](USAGE.md)** for installation and configuration steps.
