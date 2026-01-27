@@ -19,10 +19,11 @@ Transform your Windows experience using trusted tools like **Windhawk, Rainmeter
 ## 📸 Preview
 
 <p align="center">
-  <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Samurai">
-    <img src="https://github.com/user-attachments/assets/1fa97f00-a666-4164-842d-3f25702dfca6" alt="Alt text" width="300">
+  <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Gojo">
+    <img width="250" alt="Preview" src="https://github.com/user-attachments/assets/1d2b90e4-d204-4c33-9b8b-38081881ba0a" />
+
   </a><br>
-  <em> <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Samurai" >W--Samurai </a></em>
+  <em> <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Samurai" >W--Gojo</a></em>
 </p>
 
 ---
