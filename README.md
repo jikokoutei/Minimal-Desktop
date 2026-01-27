@@ -18,12 +18,23 @@ Transform your Windows experience using trusted tools like **Windhawk, Rainmeter
 
 ## 📸 Preview
 
-<p align="center">
-  <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Gojo">
-    <img width="250" alt="Preview" src="https://github.com/user-attachments/assets/1d2b90e4-d204-4c33-9b8b-38081881ba0a" />
-  </a><br>
-  <em> <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Samurai" >W--Gojo</a></em>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Samurai">
+        <img width="250" alt="Preview" src="https://github.com/user-attachments/assets/6f63ed73-d34a-4ab3-9de3-142e493ad814" />
+      </a><br>
+      <em><a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Samurai">W--Samurai</a></em>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Gojo">
+        <img width="250" alt="Preview" src="https://github.com/user-attachments/assets/1d2b90e4-d204-4c33-9b8b-38081881ba0a" />
+      </a><br>
+      <em><a href="https://github.com/jikokoutei/Minimal-Desktop/tree/W--Gojo">W--Gojo</a></em>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
